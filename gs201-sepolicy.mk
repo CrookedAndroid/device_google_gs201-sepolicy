@@ -2,7 +2,7 @@
 BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/ramdump
 
 # twoshay
-BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/input
+# BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/input
 
 # google_battery service
 BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/googlebattery
